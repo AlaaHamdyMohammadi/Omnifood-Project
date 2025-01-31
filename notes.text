@@ -1,0 +1,3 @@
+- rem: root element font size --> 1rem = 16px
+- html{} --> is the control element(root), if write font-size: 10px; that's mean 1rem = 10px, so that's ease to calculate all length with rem
+because the default font-size in html = 16px;
