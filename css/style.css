@@ -53,10 +53,16 @@ body{
     color: #555;
 }
 
-.test{
-    max-width: 50rem;
-    background-color: red;
-    padding: 100px;
-    color: white;
-    font-size: 10rem;
+/* Start Hero Section */
+.hero{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: tomato; */
+    max-width: 130rem;
+    margin: 0 auto;
 }
+
+.hero-img{
+    width: 100%;
+}
+/* End Hero Section */
